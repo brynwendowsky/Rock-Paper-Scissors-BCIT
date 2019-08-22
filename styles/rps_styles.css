@@ -1,0 +1,34 @@
+.center{
+    text-align: center;
+}
+
+body{
+    background-color: goldenrod;
+    font-family: 'Darker Grotesque', sans-serif;
+}
+
+#again{
+    font-family: 'Darker Grotesque', sans-serif;
+    color: goldenrod;
+    background-color: black;
+    font-size: 20px;
+}
+
+p{
+    font-size: 25px;
+}
+
+img{
+    height: 275px;
+    opacity: 1;
+    transition: .5s ease;
+}
+
+img:hover{
+    opacity: 0.3;
+
+}
+
+#again{
+    opacity: 0;
+}
